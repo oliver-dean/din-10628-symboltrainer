@@ -1,1 +1,1 @@
-din_iso_10628_symboltrainer.html → index.html
+index.html
